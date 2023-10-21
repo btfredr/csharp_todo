@@ -1,0 +1,14 @@
+F:\koding\c#\csharp_todo\csharp_todo\bin\Debug\net6.0\csharp_todo.exe
+F:\koding\c#\csharp_todo\csharp_todo\bin\Debug\net6.0\csharp_todo.deps.json
+F:\koding\c#\csharp_todo\csharp_todo\bin\Debug\net6.0\csharp_todo.runtimeconfig.json
+F:\koding\c#\csharp_todo\csharp_todo\bin\Debug\net6.0\csharp_todo.dll
+F:\koding\c#\csharp_todo\csharp_todo\bin\Debug\net6.0\csharp_todo.pdb
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\csharp_todo.GeneratedMSBuildEditorConfig.editorconfig
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\csharp_todo.AssemblyInfoInputs.cache
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\csharp_todo.AssemblyInfo.cs
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\csharp_todo.csproj.CoreCompileInputs.cache
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\csharp_todo.dll
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\refint\csharp_todo.dll
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\csharp_todo.pdb
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\csharp_todo.genruntimeconfig.cache
+F:\koding\c#\csharp_todo\csharp_todo\obj\Debug\net6.0\ref\csharp_todo.dll

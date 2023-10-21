@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\koding\\c#\\csharp_todo\\csharp_todo\\csharp_todo.csproj": {}
+  },
+  "projects": {
+    "F:\\koding\\c#\\csharp_todo\\csharp_todo\\csharp_todo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\koding\\c#\\csharp_todo\\csharp_todo\\csharp_todo.csproj",
+        "projectName": "csharp_todo",
+        "projectPath": "F:\\koding\\c#\\csharp_todo\\csharp_todo\\csharp_todo.csproj",
+        "packagesPath": "C:\\Users\\Fredrik\\.nuget\\packages\\",
+        "outputPath": "F:\\koding\\c#\\csharp_todo\\csharp_todo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fredrik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
